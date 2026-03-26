@@ -1,0 +1,8 @@
+{
+  "name": "NeuroGeo Visualizer",
+  "description": "A TouchDesigner-inspired generative visualizer controlled by hand gestures via Gemini Live Vision and reactive to audio frequencies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
